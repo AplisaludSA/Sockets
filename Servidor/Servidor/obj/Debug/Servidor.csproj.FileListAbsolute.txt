@@ -1,0 +1,12 @@
+c:\users\farango\documents\visual studio 2015\Projects\Servidor\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\farango\documents\visual studio 2015\Projects\Servidor\Servidor\bin\Debug\Servidor.exe
+C:\Users\farango\documents\visual studio 2015\Projects\Servidor\Servidor\bin\Debug\Servidor.pdb
+C:\Users\farango\documents\visual studio 2015\Projects\Servidor\Servidor\obj\Debug\Servidor.csprojResolveAssemblyReference.cache
+C:\Users\farango\documents\visual studio 2015\Projects\Servidor\Servidor\obj\Debug\Servidor.exe
+C:\Users\farango\documents\visual studio 2015\Projects\Servidor\Servidor\obj\Debug\Servidor.pdb
+C:\Users\farango\Documents\Visual Studio 2015\Projects\Socket\Servidor\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\farango\Documents\Visual Studio 2015\Projects\Socket\Servidor\Servidor\obj\Debug\Servidor.exe
+C:\Users\farango\Documents\Visual Studio 2015\Projects\Socket\Servidor\Servidor\obj\Debug\Servidor.pdb
+C:\Users\farango\Documents\Visual Studio 2015\Projects\Socket\Servidor\Servidor\bin\Debug\Servidor.exe
+C:\Users\farango\Documents\Visual Studio 2015\Projects\Socket\Servidor\Servidor\bin\Debug\Servidor.pdb
+C:\Users\farango\Documents\Visual Studio 2015\Projects\Socket\Servidor\Servidor\obj\Debug\Servidor.csprojResolveAssemblyReference.cache

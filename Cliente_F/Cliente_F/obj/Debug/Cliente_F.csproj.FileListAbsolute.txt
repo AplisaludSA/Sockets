@@ -1,0 +1,9 @@
+c:\users\farango\documents\visual studio 2015\Projects\Cliente_F\Cliente_F\bin\Debug\Cliente_F.exe.config
+c:\users\farango\documents\visual studio 2015\Projects\Cliente_F\Cliente_F\bin\Debug\Cliente_F.exe
+c:\users\farango\documents\visual studio 2015\Projects\Cliente_F\Cliente_F\bin\Debug\Cliente_F.pdb
+c:\users\farango\documents\visual studio 2015\Projects\Cliente_F\Cliente_F\obj\Debug\Cliente_F.csprojResolveAssemblyReference.cache
+c:\users\farango\documents\visual studio 2015\Projects\Cliente_F\Cliente_F\obj\Debug\Cliente_F.Form1.resources
+c:\users\farango\documents\visual studio 2015\Projects\Cliente_F\Cliente_F\obj\Debug\Cliente_F.Properties.Resources.resources
+c:\users\farango\documents\visual studio 2015\Projects\Cliente_F\Cliente_F\obj\Debug\Cliente_F.csproj.GenerateResource.Cache
+c:\users\farango\documents\visual studio 2015\Projects\Cliente_F\Cliente_F\obj\Debug\Cliente_F.exe
+c:\users\farango\documents\visual studio 2015\Projects\Cliente_F\Cliente_F\obj\Debug\Cliente_F.pdb
